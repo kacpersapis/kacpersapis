@@ -1,13 +1,6 @@
-Hi there 👋
+Hi, My name is Kacper Sapis
+And I'm a Fronted Developr
 
-Here are some ideas to get you started:
+I am a young creative person who builds my experience by running my own business and I received training many courses to improve my personal development. I am not afraid of what is new and I am happy to take up new challenges. I treat each day as an opportunity to broaden my competences and horizons.
 
-- 🔭 I’m currently working on ... Web application
-- 🌱 I’m currently learning ... Django
-- 👯 I’m looking to collaborate on ... Django
-- 🤔 I’m looking for help with ... Django
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... https://www.linkedin.com/in/kacper-sapis-201a89196/
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... 
--->
+I am interested in innovative solutions, automation of processes taking place in the company, data analysis and modern forms of business.
